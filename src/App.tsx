@@ -158,7 +158,7 @@ function App() {
                         <div className="result-card">
                             <h3>Value at Launch</h3>
                             <div className="value">{formatCurrency(launchValue)}</div>
-                            <div className="subtitle">Expected Q1 2025</div>
+                            <div className="subtitle">Expected Q1 2026</div>
                         </div>
 
                         <div className="result-card">
